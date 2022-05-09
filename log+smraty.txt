@@ -1,6 +1,0 @@
-[B.A.T.M.A.N. adv 2021.1, MainIF/MAC: pub0/3c:a0:67:fb:9c:37 (bat0/3a:ae:d3:d7:ad:59 BATMAN_IV)]
-IF             Neighbor              last-seen
-         pub0	  4c:ed:de:25:f5:06    0.096s
------------------
-Дс 09 Мам 2022 12:19:37 +06
------------------
